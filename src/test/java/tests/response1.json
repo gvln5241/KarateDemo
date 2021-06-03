@@ -1,6 +1,6 @@
 {
-	"createdAt": "#ignore",
-	"name": "VG",
-	"id": "#string",
-	"job": "QA"
+  "createdAt" : "#ignore",
+  "name" : "VG",
+  "id" : "#string",
+  "job" : "QA"
 }
